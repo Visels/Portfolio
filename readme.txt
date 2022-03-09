@@ -8,3 +8,4 @@ Some of the projects are:
       -> Corona Virus Tracking
       -> Uber Clone
       -> Hostels API
+      -> Spring Boot Security
