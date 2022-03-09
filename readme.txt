@@ -7,3 +7,4 @@ Some of the projects are:
       -> Netflix Clone
       -> Corona Virus Tracking
       -> Uber Clone
+      -> Hostels API
