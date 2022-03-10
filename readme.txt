@@ -6,6 +6,6 @@ Some of the projects are:
       -> Amazon-clone
       -> Netflix Clone
       -> Corona Virus Tracking
-      -> Uber Clone
+      
       
       
