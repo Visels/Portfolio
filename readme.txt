@@ -4,7 +4,7 @@ This portfolio will be hosted on hostinger.
 
 Some of the projects are:
       -> Amazon-clone
-      -> Netflix Clone
+      
      
       
       
