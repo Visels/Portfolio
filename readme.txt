@@ -6,7 +6,7 @@ Some of the projects I have done are:
                        -Netflix Clone
                        -Uber clone
                        -Hostels API
-                       -Bank Mana
+                       -Bank Man
         
   
                   
