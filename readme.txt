@@ -1,7 +1,7 @@
 This is my personal portfolio showcasing what I have done through out my development journey.
 
 
-Some of the projects I 
+Some of the projects 
                        
                        
                       
