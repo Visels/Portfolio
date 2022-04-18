@@ -1,4 +1,4 @@
-This is my personal portfolio showcasing what I have done through out my development journ
+This is my personal portfolio showcasing what I have done through out my development jour
 
 
 
