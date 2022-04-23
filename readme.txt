@@ -4,8 +4,7 @@ This is my personal portfolio showcasing what I have done through out my develop
   -Uber clone
   -Amazon clone
   -Hostel API
-  -Netfli
-
+  -Netfl
 
 
                        
