@@ -1,6 +1,6 @@
 This is my personal portfolio showcasing what I have done through out my development 
 
--Some projects that I have worked 
+-Some projects that I have worke
   
   
   
