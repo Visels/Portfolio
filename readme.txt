@@ -5,7 +5,7 @@ Some of the projects I have worked on are:
       -Hostels Management API
       -Uber clone
       -Amazon clone
-      -Netflix 
+      -Netfli
   
   
   
