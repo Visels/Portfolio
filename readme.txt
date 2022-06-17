@@ -6,6 +6,7 @@ Some of the projects I have worked on are:
       -Bank management system
       -Netflix clone
       -amazon clone
+      -Uber clone
       
       
       
