@@ -5,8 +5,7 @@ Some of the projects I have worked on are:
       -Hostels Management API
       -Bank management system
       -Netflix clone
-      -amazon clone
-      -
+      -amazon 
       
       
       
