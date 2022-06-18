@@ -4,7 +4,7 @@ This is my personal portfolio showcasing what I have done through out my develop
 Some of the projects I have worked on are:
       -Hostels Management API
       -Bank management system
-      -Netflix 
+      
       
       
       
