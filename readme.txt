@@ -1,4 +1,4 @@
-This is my personal portfolio showcasing what I have done through out my development and learning journey
+ is my personal portfolio showcasing what I have done through out my development and learning journey
 
 
 Some of the projects I have worked on are
